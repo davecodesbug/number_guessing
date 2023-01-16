@@ -1,6 +1,6 @@
 ﻿namespace number_guessing
 {
-    class Code
+    internal abstract class Code
     {
         private static void Main()
         {
@@ -15,12 +15,20 @@
             while (playAgain)
             {
                 guess = 0;
-                Console.WriteLine("Begin by guessing a number...");
 
                 while (guess != num)
                 {
                     Console.WriteLine($"Guess a number between {min} & {max} :");
                     guess = Convert.ToInt16(Console.ReadLine());
+
+                    if (guess > num)
+                    {
+                        Console.WriteLine("Guess is too high, try again...");
+                    } else if (guess < num)
+                    {
+                        Console.WriteLine("Guess is too low, try again...");
+                    }
+                    
                     guesses++;
                 }
                 

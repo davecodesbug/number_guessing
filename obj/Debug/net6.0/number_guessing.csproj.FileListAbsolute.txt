@@ -1,0 +1,15 @@
+C:\Users\Backend Yemi\RiderProjects\number_guessing\bin\Debug\net6.0\number_guessing.exe
+C:\Users\Backend Yemi\RiderProjects\number_guessing\bin\Debug\net6.0\number_guessing.deps.json
+C:\Users\Backend Yemi\RiderProjects\number_guessing\bin\Debug\net6.0\number_guessing.runtimeconfig.json
+C:\Users\Backend Yemi\RiderProjects\number_guessing\bin\Debug\net6.0\number_guessing.dll
+C:\Users\Backend Yemi\RiderProjects\number_guessing\bin\Debug\net6.0\number_guessing.pdb
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.csproj.AssemblyReference.cache
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.AssemblyInfoInputs.cache
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.AssemblyInfo.cs
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.csproj.CoreCompileInputs.cache
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.dll
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\refint\number_guessing.dll
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.pdb
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\number_guessing.genruntimeconfig.cache
+C:\Users\Backend Yemi\RiderProjects\number_guessing\obj\Debug\net6.0\ref\number_guessing.dll
